@@ -1,0 +1,6 @@
+Jeux deviner le nombre : 
+========================
+
+guess-1.php : La base
+
+guess-2.php : Initialiser une nouvelle partie (nouveau nombre) quand on gagne
