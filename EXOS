@@ -1,6 +1,16 @@
+Exos de base :
+
+http://www.w3resource.com/php-exercises/php-basic-exercise-3.php
+
+base-url.php : Analyse de l'URL courante
+
 Jeux deviner le nombre : 
 ========================
 
 guess-1.php : La base
-
 guess-2.php : Initialiser une nouvelle partie (nouveau nombre) quand on gagne
+
+quand on gagne enregistrer son nom en BDD
+ajouter en bdd le nombre d'essai efffectué
+créer une page High score trié par ordre de nombre d'essais
+
