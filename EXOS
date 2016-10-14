@@ -12,4 +12,10 @@ guess-2.php : Initialiser une nouvelle partie (nouveau nombre) quand on gagne
 quand on gagne enregistrer son nom en BDD
 ajouter en bdd le nombre d'essai efffectué
 créer une page High score trié par ordre de nombre d'essais
+Ajout authentification et possibilité de suppression des high score
 
+
+Formulaire d'enregistrement utilisateur :
+=========================================
+
+page 83 du bouquin PHP
