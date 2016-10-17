@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $msg_erreur .= "<br>Erreur dans l'adresse mail.";
     }
 
-    $password = filter_var($_POST['password']);
+    $password = $_POST['password'];
     if (!$password || mb_strlen($password) < 8){
         $erreur_dans_formulaire = true;
         $msg_erreur .= "<br>Le mot de passe doit faire plus de 8 caractères.";
