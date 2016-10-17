@@ -15,7 +15,15 @@ créer une page High score trié par ordre de nombre d'essais
 Ajout authentification et possibilité de suppression des high score
 
 
-Formulaire d'enregistrement utilisateur :
-=========================================
+Auth et registration 
+====================
 
-page 83 du bouquin PHP
+register-1.php
+
+Exercie : register-2.php : faire en sorte que le formulaire se réaffiche 
+avec les valeurs meme si l'email n'est pas correcte par exemple ou
+si login ou pass ne sont pas renseigné
+
+
+login.php
+admin.php
